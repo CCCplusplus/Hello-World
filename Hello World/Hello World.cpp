@@ -5,6 +5,8 @@ int main()
 
     std::cout << "I did it\n";
 
+    std::cout << "Another one\n";
+
     return 0;
 }
 
